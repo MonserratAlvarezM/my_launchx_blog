@@ -1,7 +1,7 @@
 ---
 title: "La Cultura de un Desarrollador de Software"
 date: 2022-07-03
-description: 'Primer post de la travesía en la Misión de Backend con Node JS de Launch X'
+description: ' Misión de Backend con Node JS de Launch X .2'
 ---
 
 ¡Hola!
